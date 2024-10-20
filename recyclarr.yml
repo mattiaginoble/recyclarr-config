@@ -1052,7 +1052,7 @@ radarr:
       # Updated: 2023-09-26                                                                             #
       # Documentation: https://recyclarr.dev                                                            #
       # Note: First you need to create a Quality Profile like this                                      #
-      # https://trash-guides.info/Radarr/images/qp-uhd-bluray-webdl.png                                 #
+      # https://trash-guides.info/Radarr/images/qp-remux-webdl-1080p.png                                #
       ###################################################################################################
 
       # Audio
